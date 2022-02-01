@@ -1,19 +1,14 @@
-# veggie-rific
+# hospitalization-forecaster-devlog
 
-Evaluation materials for Flu/Covid hospitalizations
+Evaluation materials for forecasting covid/flu hospitalizations.
 
 ---
 
-### Procedure to produce local reports
+[View the site.](https://github.com/cmu-delphi/hospitalization-forecaster-devlog)
 
-Covid:
-1. Clone the repo.
-2. Copy the `rmd-files/hospitalization_template.Rmd` and rename to `rmd-files/covid-yyyy-mm-dd.Rmd`
-3. Edit as needed (perhaps only to point to the right results file in the AWS bucket).
-4. Knit.
-5. Add a descriptive link in `index.md`.
-6. Commit (only the `.Rmd`, `.html`, and `index.md`) and push.
+A few pointers:
+- We mostly keep the output htmls here for hosting, but reproducible notebooks are even better.
+- Compress images, to keep repo size small.
+- To submit, you can either clone the repo and push (if you have access) or you can make a pull request from a fork.
 
-Flu:
-TBD
-# hospitalization-forecaster-devlog
+Some of the notebooks require access to a shared AWS bucket. Ask Dmitry or Dan for the credentials.
