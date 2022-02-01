@@ -4,7 +4,7 @@ Evaluation materials for forecasting covid/flu hospitalizations.
 
 ---
 
-[View the site.](https://github.com/cmu-delphi/hospitalization-forecaster-devlog)
+[View the site.](https://cmu-delphi.github.io/hospitalization-forecaster-devlog/)
 
 A few pointers:
 - We mostly keep the output htmls here for hosting, but reproducible notebooks are even better.
