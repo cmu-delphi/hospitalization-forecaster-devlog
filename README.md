@@ -1,6 +1,6 @@
 # hospitalization-forecaster-devlog
 
-Evaluation materials for forecasting covid/flu hospitalizations.
+Evaluation materials for forecasting covid/flu hospitalizations (formerly veggie-rific!).
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Hospitalizations Forecasting Devlog"
 ---
 
-Links to notebooks (formerly veggie-rific!). 
+Links to notebooks. 
 
 # Immediate deployment tests (for 1/17, Covid)
 
