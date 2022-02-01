@@ -4,7 +4,31 @@ title: "Hospitalizations Forecasting Devlog"
 
 Links to notebooks. 
 
+# Weekly Forecasts
+
+## Covid Forecasts
+
+* [Logan's 6 Dec Models](rmd-files/covid-2021-12-06.html)
+* [Logan's 3 Jan Models](rmd-files/covid-2022-01-03.html)
+* [Conditional analysis on a subset](rmd-files/covid-2022-01-03-conditional.html)
+* [Logan's 3 Jan Models (3 Jan v 2.0)](rmd-files/covid-2022-01-07.html)
+* [Conditional analysis on a subset (3 Jan v 2.0)](rmd-files/covid-2022-01-07-conditional.html)
+* [January 17th Forecast - dev6_logistic + AR3 + Antelope Ensembled](rmd-files/last-minute-comparison-take2.html)
+* [January 24th Forecast - dev6_logistic + AR3 + Antelope Ensembled and Modified](rmd-files/covid-hosp-predictions_2022-01-24.html)
+* [January 31st Forecast - Dev6 + AR3 + Antelope Ensembled and Modified](rmd-files/covid-hosp-predictions_2022-01-31.html)
+
+## Flu Forecasts
+
+* [Addison's 6 Dec Analysis](rmd-files/flu-2021-12-06.html)
+* [Addison's 4 Jan Analysis](writeups/proposed-model.html)
+* [Addison's 7 Jan Analysis](writeups/flu-proposed-model-2022-01-07.html)
+* [Dmitry's 10 Jan Flu Data Analysis](rmd-files/flu-2021-01-10.html)
+* [17 Jan Flu Forecasts](rmd-files/2022-01-17-flu-forecast.html)
+* [January 24th Forecast](rmd-files/2022-01-24-flu-forecast.html)
+* [January 31st Forecast](rmd-files/2022-01-31-flu-forecast.html)
+
 # Immediate deployment tests (for 1/17, Covid)
+
 
 * [Logan's top 3](rmd-files/logan-forecaster.html)
 * [Glmnet](rmd-files/antelope_AR3.html)
@@ -12,25 +36,9 @@ Links to notebooks.
 * [Antelope (old prod forecaster)](rmd-files/antelope.html)
 
 * [Dev6 + AR3 + Antelope Comparison](rmd-files/last-minute-comparison.html)
-* [Dev6 + AR3 + Antelope Ensembled](rmd-files/last-minute-comparison-take2.html)
 
-# Covid Forecasts
 
-* [Logan's 6 Dec Models](rmd-files/covid-2021-12-06.html)
-* [Logan's 3 Jan Models](rmd-files/covid-2022-01-03.html)
-* [Conditional analysis on a subset](rmd-files/covid-2022-01-03-conditional.html)
-* [Logan's 3 Jan Models (3 Jan v 2.0)](rmd-files/covid-2022-01-07.html)
-* [Conditional analysis on a subset (3 Jan v 2.0)](rmd-files/covid-2022-01-07-conditional.html)
-
-# Flu Forecasts
-
-* [Addison's 6 Dec Analysis](rmd-files/flu-2021-12-06.html)
-* [Addison's 4 Jan Analysis](writeups/proposed-model.html)
-* [Addison's 7 Jan Analysis](writeups/flu-proposed-model-2022-01-07.html)
-* [Dmitry's 10 Jan Flu Data Analysis](rmd-files/flu-2021-01-10.html)
-* [17 Jan Flu Forecasts](rmd-files/2022-01-17-flu-forecast.html)
-
-# Covid classifier
+# Covid Classifier
 
 * [Alden's 6 Dec Analysis](rmd-files/updown-2021-12-06.html)
 * [Alden's 14 Dec Analysis](rmd-files/updown-2021-12-14.html)
