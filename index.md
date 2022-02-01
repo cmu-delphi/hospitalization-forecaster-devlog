@@ -22,8 +22,8 @@ Links to notebooks.
 * [December 6th Addison's Analysis](rmd-files/flu-2021-12-06.html)
 * [January 4th Addison's Analysis](writeups/proposed-model.html)
 * [Janaury 7th Addison's Analysis](writeups/flu-proposed-model-2022-01-07.html)
-* [January 10th Dmitry'sFlu Data Analysis](rmd-files/flu-2021-01-10.html)
-* [January 17th Flu Forecasts](rmd-files/2022-01-17-flu-forecast.html)
+* [January 10th Dmitry's Analysis](rmd-files/flu-2021-01-10.html)
+* [January 17th Forecast](rmd-files/2022-01-17-flu-forecast.html)
 * [January 24th Forecast](rmd-files/2022-01-24-flu-forecast.html)
 * [January 31st Forecast](rmd-files/2022-01-31-flu-forecast.html)
 
