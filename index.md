@@ -16,6 +16,7 @@ Links to notebooks.
 * [January 17th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/last-minute-comparison-take2.html)
 * [January 24th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-01-24.html)
 * [January 31st Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-01-31.html)
+* [February 7th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-02-07.html)
 
 ## Flu Forecasts
 
@@ -26,6 +27,7 @@ Links to notebooks.
 * [January 17th Forecast](rmd-files/2022-01-17-flu-forecast.html)
 * [January 24th Forecast](rmd-files/2022-01-24-flu-forecast.html)
 * [January 31st Forecast](rmd-files/2022-01-31-flu-forecast.html)
+* [February 7th Forecast](rmd-files/2022-02-07-flu-forecast.html)
 
 # Development
 
