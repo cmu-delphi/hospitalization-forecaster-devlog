@@ -29,7 +29,7 @@ Links to notebooks.
 * [January 24th Forecast](rmd-files/2022-01-24-flu-forecast.html)
 * [January 31st Forecast](rmd-files/2022-01-31-flu-forecast.html)
 * [February 7th Forecast](rmd-files/2022-02-07-flu-forecast.html)
-* * [February 7th Forecast](rmd-files/2022-02-14-flu-forecast.html)
+* [February 7th Forecast](rmd-files/2022-02-14-flu-forecast.html)
 
 # Development
 
