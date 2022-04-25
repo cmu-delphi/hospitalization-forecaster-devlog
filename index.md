@@ -27,6 +27,7 @@ Links to notebooks.
 * [April 4th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-04-04.html)
 * [April 11th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-04-11.html)
 * [April 18th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-04-18.html)
+* [April 25th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-04-25.html)
 
 ## Flu Forecasts
 
@@ -48,6 +49,7 @@ Links to notebooks.
 * [April 4th Forecast](rmd-files/2022-04-04-flu-forecast.html)
 * [April 11th Forecast](rmd-files/2022-04-11-flu-forecast.html)
 * [April 18th Forecast](rmd-files/2022-04-18-flu-forecast.html)
+* [April 25th Forecast](rmd-files/2022-04-25-flu-forecast.html)
 
 # Development
 
