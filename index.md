@@ -2,7 +2,7 @@
 title: "Hospitalizations Forecasting Devlog"
 ---
 
-Links to notebooks. 
+Links to notebooks.
 
 # Weekly Forecasts
 
@@ -30,6 +30,7 @@ Links to notebooks.
 * [April 25th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-04-25.html)
 * [May 2nd Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-05-02.html)
 * [May 9th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-05-09.html)
+* [May 16th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-05-16.html)
 
 ## Flu Forecasts
 
@@ -54,6 +55,7 @@ Links to notebooks.
 * [April 25th Forecast](rmd-files/2022-04-25-flu-forecast.html)
 * [May 2nd Forecast](rmd-files/2022-05-02-flu-forecast.html)
 * [May 9th Forecast](rmd-files/2022-05-09-flu-forecast.html)
+* [May 16th Forecast](rmd-files/2022-05-16-flu-forecast.html)
 
 # Development
 
