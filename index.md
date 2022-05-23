@@ -31,6 +31,7 @@ Links to notebooks.
 * [May 2nd Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-05-02.html)
 * [May 9th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-05-09.html)
 * [May 16th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-05-16.html)
+* [May 23rd Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-05-23.html)
 
 ## Flu Forecasts
 
@@ -56,6 +57,7 @@ Links to notebooks.
 * [May 2nd Forecast](rmd-files/2022-05-02-flu-forecast.html)
 * [May 9th Forecast](rmd-files/2022-05-09-flu-forecast.html)
 * [May 16th Forecast](rmd-files/2022-05-16-flu-forecast.html)
+* [May 23rd Forecast](rmd-files/2022-05-23-flu-forecast.html)
 
 # Development
 
