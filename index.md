@@ -39,6 +39,7 @@ Links to notebooks.
 * [June 27th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-06-27.html)
 * [July 4th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-07-04.html)
 * [July 11th Forecast: dev6_logistic + AR3 + Antelope Ensembled](rmd-files/covid-hosp-predictions_2022-07-11.html)
+* Forecasting notebook shifted to Slack #forecast-submission-log.
 
 ## Flu Forecasts
 
@@ -68,6 +69,7 @@ Links to notebooks.
 * [May 30th Forecast](rmd-files/2022-05-30-flu-forecast.html)
 * [June 6th Forecast](rmd-files/2022-06-06-flu-forecast.html)
 * Forecasting stopped in July, due to flu season end.
+* Forecasting notebook shifted to Slack #forecast-submission-log.
 
 # Development
 
